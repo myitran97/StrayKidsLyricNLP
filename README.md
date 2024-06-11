@@ -8,11 +8,8 @@ Data Cleaning: Process and clean the scraped lyrics for analysis.
 Sentiment Analysis: Analyze the sentiment of the lyrics.
 Theme Identification: Identify recurring themes and topics.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgments:
 
-- Inspired by the creativity and music of Stray Kids.\
+- Inspired by the creativity and music of Stray Kids.
 
 - Special thanks to all contributors and the open-source community.
