@@ -6,10 +6,9 @@ StrayKidsLyricNLP is a project focused on crawling and analyzing lyrics from the
 Lyric Crawling: Automatically scrape lyrics from various sources.\
 Data Cleaning: Process and clean the scraped lyrics for analysis.\
 Sentiment Analysis: Analyze the sentiment of the lyrics.\
-Theme Identification: Identify recurring themes and topics.\
+Theme Identification: Identify recurring themes and topics.
 
 Acknowledgments:
 
-- Inspired by the creativity and music of Stray Kids.
-
+- Inspired by the creativity and music of Stray Kids.\
 - Special thanks to all contributors and the open-source community.
