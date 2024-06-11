@@ -13,6 +13,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Acknowledgments:
 
-- Inspired by the creativity and music of Stray Kids.
+- Inspired by the creativity and music of Stray Kids.\
 
 - Special thanks to all contributors and the open-source community.
