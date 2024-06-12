@@ -12,3 +12,10 @@ Acknowledgments:
 
 - Inspired by the creativity and music of Stray Kids.
 - Special thanks to all contributors and the open-source community.
+
+Files:
+-  eng_skz_lyrics.csv: StrayKids lyrics in English (includes English lyrics and Kor/Jap English translation)
+-  song_lyrics_kor.csv: StrayKids original lyrics (includes original lyrics)
+-  skz_current.ipynb: Main analysis notebook
+-  skz_data_crawl.ipynb: Data crawl notebook
+-  song_info_cleaned1.csv: csv contains song information (Author, album, date released)
