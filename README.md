@@ -10,5 +10,5 @@ Theme Identification: Identify recurring themes and topics.
 
 Acknowledgments:
 
-- Inspired by the creativity and music of Stray Kids.\
+- Inspired by the creativity and music of Stray Kids.
 - Special thanks to all contributors and the open-source community.
